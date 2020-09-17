@@ -10,7 +10,9 @@ work on Heroku. There are also quite some useful links about flask and heroku in
 The last link is the quick start to get along with heroku.
 
 --https://github.com/bev-a-tron/MyFlaskTutorial
+
 --https://github.com/thedataincubator/flask-framework/
-- A useful reference is the Heroku [quickstart guide](https://devcenter.heroku.com/articles/getting-started-with-python).
+
+- A useful reference is the Heroku [quickstart guide](https://devcenter.heroku.com/articles/getting-started-with-python)].
 
 
